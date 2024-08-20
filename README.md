@@ -1,5 +1,14 @@
 # ProductsTab Component Structure
 
+## App Link:
+
+https://swipe-assignment-productadded.netlify.app/
+
+## Demo Video:
+
+https://github.com/user-attachments/assets/62cde20f-b1c9-48e6-9389-2fcc7a501e29
+
+
 ## Overview
 
 The **`ProductsTab`** component displays a list of invoice items in a table format. 
